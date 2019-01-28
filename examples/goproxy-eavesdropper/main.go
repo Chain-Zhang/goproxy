@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"regexp"
 
-	"github.com/elazarl/goproxy"
+	"github.com/Chain-Zhang/goproxy"
 )
 
 func orPanic(err error) {
